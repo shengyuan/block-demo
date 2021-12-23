@@ -1,0 +1,18 @@
+{
+  "types": [
+    "demo_1",
+    "demo_2",
+    "demo_3"
+  ],
+  "category": "catEduOuterExtension",
+  "scripts": [
+    "blockly/blocks.js",
+    "blockly/javascript.js"
+  ],
+  "dependencies": [
+    "index.js"
+  ],
+  "msg": "blockly/msg",
+  "blocksMsg": "blockly/msg/blocks",
+  "toolbox": "blockly/toolbox.xml"
+}

@@ -1,0 +1,1 @@
+MSG.catDemo = "范例";

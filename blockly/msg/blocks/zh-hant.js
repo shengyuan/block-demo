@@ -1,0 +1,1 @@
+Blockly.Msg.YOUR_PREFIX_GET_DATA = "取得數值";

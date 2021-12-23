@@ -1,0 +1,5 @@
+<category id="catDemo" COLOUR="50">
+  <block type="demo_1"></block>
+  <block type="demo_2"></block>
+  <block type="demo_3"></block>
+</category>
